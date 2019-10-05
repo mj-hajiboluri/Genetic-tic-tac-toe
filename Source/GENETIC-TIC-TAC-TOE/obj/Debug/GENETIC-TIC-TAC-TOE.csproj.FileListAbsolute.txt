@@ -1,0 +1,15 @@
+c:\users\mjavad\documents\visual studio 2013\Projects\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\bin\Debug\GENETIC-TIC-TAC-TOE.exe.config
+c:\users\mjavad\documents\visual studio 2013\Projects\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\bin\Debug\GENETIC-TIC-TAC-TOE.exe
+c:\users\mjavad\documents\visual studio 2013\Projects\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\bin\Debug\GENETIC-TIC-TAC-TOE.pdb
+c:\users\mjavad\documents\visual studio 2013\Projects\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\obj\Debug\GENETIC-TIC-TAC-TOE.csprojResolveAssemblyReference.cache
+c:\users\mjavad\documents\visual studio 2013\Projects\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\obj\Debug\GENETIC-TIC-TAC-TOE.exe
+c:\users\mjavad\documents\visual studio 2013\Projects\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\obj\Debug\GENETIC-TIC-TAC-TOE.pdb
+C:\Users\M Javad\Desktop\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\bin\Debug\GENETIC-TIC-TAC-TOE.exe.config
+C:\Users\M Javad\Desktop\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\obj\Debug\GENETIC-TIC-TAC-TOE.exe
+C:\Users\M Javad\Desktop\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\obj\Debug\GENETIC-TIC-TAC-TOE.pdb
+C:\Users\M Javad\Desktop\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\bin\Debug\GENETIC-TIC-TAC-TOE.exe
+C:\Users\M Javad\Desktop\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\bin\Debug\GENETIC-TIC-TAC-TOE.pdb
+C:\Users\M Javad\Desktop\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\obj\Debug\GENETIC-TIC-TAC-TOE.csprojResolveAssemblyReference.cache
+C:\Users\M Javad\Desktop\Takamoli Exercise And Porject\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\bin\Debug\GENETIC-TIC-TAC-TOE.exe.config
+C:\Users\M Javad\Desktop\Takamoli Exercise And Porject\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\obj\Debug\GENETIC-TIC-TAC-TOE.exe
+C:\Users\M Javad\Desktop\Takamoli Exercise And Porject\GENETIC-TIC-TAC-TOE\GENETIC-TIC-TAC-TOE\obj\Debug\GENETIC-TIC-TAC-TOE.pdb
